@@ -3,7 +3,8 @@
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.Find the largest palindrome made from the product of two 3-digit numbers.
 
 Programm is generic in nature so that it works for any "n" digit numbers. If you want to solve it specifically for 3-digit numbers it can be further optimized. 
-Compile and run this programm as follows by providing umber of digits as os argument
+
+Compile and run this programm as follows. Provide number of digits as first and only os argument
 
   *$ go build -o palindromeFinder*
 
