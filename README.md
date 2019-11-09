@@ -8,6 +8,7 @@ Compile and run this programm as follows by providing umber of digits as os argu
   $ go build -o palindromeFinder
 
   $ ./palindromeFinder 3
+  
   Lowbound 100; Highbound 999
   Largest palindrome as a product of two 3-digit numbers is 906609 = 993 * 913
 
